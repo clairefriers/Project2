@@ -1,6 +1,12 @@
 # Project 2: 
 
 # Team Name and Members 
+Group Name: 
+Claire Friers
+Anastasia Draughn 
+Jack Saylor 
+Justin Tran 
+Ayaan Godil
 
 # Description of Data Set
 
