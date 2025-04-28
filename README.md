@@ -1,7 +1,7 @@
 # Project 2: 
 
 # Team Name and Members 
-Group 9
+Group 9 <br>
 Claire Friers,
 Anastasia Draughn, 
 Jack Saylor, 
