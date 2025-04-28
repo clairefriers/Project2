@@ -17,7 +17,7 @@ Ayaan Godil
 
 We created a calculated field that categorizes properties into Lower, Lower-Middle, Upper-Middle, and Upper Class based on the quartiles determined from a box-and-whisker plot in Tableau.
 
-![Screenshot 2025-04-28 at 6 29 37 PM](https://github.com/user-attachments/assets/74c2608a-bcaf-4943-bcfe-07c6928fe709)
+![image](https://github.com/user-attachments/assets/f28b79da-d33c-40ad-b2e5-b1bbc36dfed2)
 
 ![Screenshot 2025-04-28 at 6 32 28 PM](https://github.com/user-attachments/assets/a066956b-6b5f-42c9-a9ed-7a62c0f2b3dc)
 
