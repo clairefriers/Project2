@@ -13,7 +13,7 @@ Ayaan Godil - aag53475@uga.edu
 
 # Manipulation of Data Set 
 
-![calc](https://github.com/clairefriers/Project2/blob/main/calc.jpeg)
+![calc](https://github.com/clairefriers/Project2/blob/main/calc.png)
 
 # Question 1 
 “How has the number of houses bought in each wealth class changed over the years?”
