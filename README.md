@@ -1,16 +1,19 @@
 # Project 2: 
 
 # Team Name and Members 
-Group 9 <br>
-Claire Friers,
-Anastasia Draughn, 
-Jack Saylor, 
-Justin Tran, 
-Ayaan Godil
+Group 9 <be>
+
+Claire Friers - cef19295@uga.edu <br/>
+Anastasia Draughn - agd82889@uga.edu <br/>
+Justin Tran - jat966554@uga.edu <br/>
+Jack Saylor - jds56127@uga.edu <br/>
+Ayaan Godil - aag53475@uga.edu
 
 # Description of Data Set
 
 # Manipulation of Data Set 
+
+![calc](https://github.com/clairefriers/Project2/blob/main/calc.jpeg)
 
 # Question 1 
 “How has the number of houses bought in each wealth class changed over the years?”
