@@ -65,4 +65,7 @@ The three graphs of YoY growth rates from 2005 to 2011 provide clear differences
 Some reasons that this could be the case include that the luxury (high price towns) housing market is much more elastic compared to others. This means that home buyers are much less likely to purchase a non basic housing need in a time of recession. Another potential reason is that wealthier homeowners have much more investments tied to the stock market, so when there is something like a recession there wealth is greatly effected. 
 
 
+Add dataset description
+
+
 
