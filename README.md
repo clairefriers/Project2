@@ -10,27 +10,15 @@ Jack Saylor - jds56127@uga.edu <br/>
 Ayaan Godil - aag53475@uga.edu
 
 # Description of Data Set
-This dataset contains detailed records of real estate sales transactions in Connecticut from 2001 through 2022. It was obtained from the Connecticut State Department of Housing’s open data resources. The dataset includes 1,097,629 rows and 14 columns, with each row representing an individual real estate sale. It captures key information such as property value, sale price, location, and classification of the property type.
+This dataset contains detailed records of real estate sales transactions in Connecticut from 2001 through 2022. It includes 1,097,629 rows and 14 columns, with each row representing an individual property sale. The dataset was obtained from the Connecticut State Department of Housing’s open data resources and is commonly used to analyze property market trends, assessed value comparisons, and regional housing activity.
 
-The dataset includes the following columns:
-	•	Serial Number (int64): A unique identifier for each sale transaction.
-	•	List Year (int64): The year the sale was listed or recorded.
-	•	Date Recorded (object/string): The exact date the transaction was officially recorded.
-	•	Town (object): The name of the Connecticut town where the property is located.
-	•	Address (object): The street address of the property sold.
-	•	Assessed Value (float64): The most recent tax-assessed value of the property prior to sale.
-	•	Sale Amount (float64): The price at which the property was sold.
-	•	Sales Ratio (float64): The ratio of sale amount to assessed value, used to assess pricing accuracy or market conditions.
-	•	Property Type (object): Broad classification such as Residential, Commercial, Vacant Land, etc.
-	•	Residential Type (object): More specific categorization within residential properties (e.g., Single Family, Two Family, etc.).
-	•	Non Use Code (object): A code indicating if the property had restricted or non-standard use (sparse data).
-	•	Assessor Remarks (object): Notes or flags from property assessors (often blank).
-	•	OPM Remarks (object): Additional remarks from the Office of Policy and Management (often blank).
-	•	Location (object): Geospatial point data (longitude/latitude) where available.
+Each sale is identified by a unique serial number and includes both the list year and the date the sale was officially recorded. The dataset provides location information such as the town and street address where the transaction occurred, along with geospatial coordinates where available. Financial data includes the tax-assessed value of the property at the time of sale, the actual sale amount, and the sales ratio (defined as sale amount divided by assessed value), which can be used to evaluate pricing dynamics or appraisal accuracy.
 
-Most of the numeric columns are continuous variables, while categorical variables like property type and residential type are used to group properties for further analysis. Some columns contain missing values or mixed data types, particularly in the remarks and geolocation fields.
+The dataset also categorizes properties by type—such as Residential, Commercial, or Vacant Land—and further specifies residential properties into subtypes including Single Family, Two Family, Three Family, and Four Family homes. Other fields, such as Non Use Code, Assessor Remarks, and OPM Remarks, provide optional context or notes relevant to special use cases, although many of these fields are sparsely populated. Data types include integers for identifiers and years, floating-point numbers for monetary values, and string/object types for descriptive attributes.
 
-Overall, this dataset is suitable for analyzing real estate trends, price changes over time, property tax assessments, and buyer behavior across different regions and property types in Connecticut.
+Overall, this dataset offers a comprehensive view of two decades of property sales in Connecticut and is well-suited for time-series analysis, price distribution studies, and housing market segmentation.
+
+
 # Manipulation of Data Set 
 
 ![calc](https://github.com/clairefriers/Project2/blob/main/calc.png)
