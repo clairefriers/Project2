@@ -28,6 +28,13 @@ We created a calculated field that categorizes properties into Lower, Lower-Midd
 
 # Analysis and Results of Question 1
 
+The box-and-whisker plot shows the distribution of average home sale amounts across towns. The Lower Whisker starts at $135,413, marking the boundary for the Lower Class. The Lower Hinge (Q1) is $230,620, setting the cutoff between Lower and Lower-Middle Class. The Median (Q2) is $285,470, showing the midpoint of the data. The Upper Hinge (Q3) at $386,607 marks the divide between Upper-Middle and Upper Class properties, while the Upper Whisker extends to $608,379. The data is right-skewed, meaning most towns fall in the middle ranges, with a few very high-priced towns pulling up the average.
+
+Over the years, the number of houses bought in each wealth class has gone through a lot of ups and downs. In the early 2000s, sales grew across all classes, but the 2008 financial crisis caused a major drop, especially hurting Lower and Lower-Middle Class buyers. After 2012, the market started bouncing back, but most of the recovery was driven by Upper-Middle and Upper Class buyers, while Lower Class sales stayed much lower. Most home buying has happened in the Lower-Middle and Upper-Middle ranges, which makes sense because most towns fall into those categories based on sale prices. Lately, the gap between affordable and luxury housing has widened, with luxury sales staying strong while lower-cost home buying has struggled.
+
+
+
+
 # Question 2 
 How have year-over-year growth rates in median home sale prices varied across different neighborhoods from 2001 to 2022, and which neighborhoods experienced the most significant growth or decline following the 2008 financial crisis and the COVID-19 pandemic? 
 
