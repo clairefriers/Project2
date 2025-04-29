@@ -32,7 +32,7 @@ We created a calculated field that categorizes properties into Lower, Lower-Midd
 How have year-over-year growth rates in median home sale prices varied across different neighborhoods from 2001 to 2022, and which neighborhoods experienced the most significant growth or decline following the 2008 financial crisis and the COVID-19 pandemic? 
 
 ![low](https://github.com/clairefriers/Project2/blob/main/low.png)
-![mid]](https://github.com/clairefriers/Project2/blob/main/middle.png)
+![mid](https://github.com/clairefriers/Project2/blob/main/middle.png)
 ![high](https://github.com/clairefriers/Project2/blob/main/high.png)
 
 # Analysis and Results of Question 2
