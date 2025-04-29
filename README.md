@@ -14,6 +14,7 @@ Ayaan Godil - aag53475@uga.edu
 # Manipulation of Data Set 
 
 ![calc](https://github.com/clairefriers/Project2/blob/main/calc.png)
+![Screenshot 2025-04-28 at 6 32 28 PM](https://github.com/user-attachments/assets/a066956b-6b5f-42c9-a9ed-7a62c0f2b3dc)
 
 # Question 1 
 “How has the number of houses bought in each wealth class changed over the years?”
@@ -22,7 +23,6 @@ We created a calculated field that categorizes properties into Lower, Lower-Midd
 
 ![image](https://github.com/user-attachments/assets/f28b79da-d33c-40ad-b2e5-b1bbc36dfed2)
 
-![Screenshot 2025-04-28 at 6 32 28 PM](https://github.com/user-attachments/assets/a066956b-6b5f-42c9-a9ed-7a62c0f2b3dc)
 
 ![Screenshot 2025-04-28 at 6 46 12 PM](https://github.com/user-attachments/assets/f551ca3c-f322-4321-929c-6917a6a61bcc)
 
