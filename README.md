@@ -29,7 +29,8 @@ We created a calculated field that categorizes properties into Lower, Lower-Midd
 ![image](https://github.com/user-attachments/assets/f28b79da-d33c-40ad-b2e5-b1bbc36dfed2)
 
 
-![Screenshot 2025-04-28 at 6 46 12 PM](https://github.com/user-attachments/assets/f551ca3c-f322-4321-929c-6917a6a61bcc)
+![image](https://github.com/user-attachments/assets/12025a0b-2a45-4c15-809c-008b59ef93a3)
+
 
 # Analysis and Results of Question 1
 
@@ -39,6 +40,9 @@ This line graph shows the number of houses sold each year, separated by wealth c
 
 Over the years, the number of houses bought in each wealth class has seen many ups and downs. From 2000 to 2005, sales grew across all classes, with the Upper and Upper-Middle Classes peaking the highest. The 2008 financial crisis caused a dramatic decline across the board, effecting the Lower and Lower-Middle Class buyers the hardest. While the market began to recover around 2012, most of the rebound was driven by Upper-Middle and Upper Class buyers, while sales in the Lower Class remained low. Most home buying activity has consistently occurred in the Lower-Middle and Upper-Middle ranges, which aligns with most towns falling into these categories based on average sale prices. After 2020, sales declined across all wealth classes - especially among lower-income groups likely due to COVID-19. This effected rising home prices and interest rates; Upper Class and Upper Middle Class remained more stable. 
 
+The bottom bar chart shows the average sales ratio across each wealth class from 2019 to 2021, offering insight into how buyers interacted with the housing market before, during, and after the COVID-19 lockdown. The sales ratio is a comparison of the sale price to the assessed value, with values above 1 indicating homes sold for more than they were worth on paper. In 2019, homes in the Lower Class had the highest average sales ratio at 1.749, meaning buyers were paying well above assessed value. This high ratio dipped slightly to 1.251 in 2020 and rose again to 1.271 in 2021, showing continued strong demand for lower-priced homes throughout the pandemic. Lower-Middle, Upper-Middle, and Upper Class homes consistently had sales ratios below 1, indicating they were selling for less than their assessed value. The Upper Class and Upper-Middle Class, in particular, saw a decline in sales ratios from 2019 to 2021, suggesting weakening demand or downward pricing pressure in those segments.
+
+These patterns help explain the trends in the line graph above, which shows the number of homes sold per class by year. The high sales ratios for Lower Class homes align with stronger buying activity in that tier during the early pandemic years, even as total sales declined across the board after 2020. Meanwhile, the declining sales ratios for upper-tier properties reflect the slower rebound or stagnation in sales volumes for Upper and Upper-Middle Class homes. Overall, the bar chart supports the idea that demand remained strongest in the lower end of the market, which likely influenced the broader trend of sales counts shifting more heavily toward Lower and Lower-Middle Class properties after COVID-19.
 
 
 
