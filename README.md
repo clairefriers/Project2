@@ -29,7 +29,7 @@ We created a calculated field that categorizes properties into Lower, Lower-Midd
 ![image](https://github.com/user-attachments/assets/f28b79da-d33c-40ad-b2e5-b1bbc36dfed2)
 
 
-![image](https://github.com/user-attachments/assets/12025a0b-2a45-4c15-809c-008b59ef93a3)
+![image](https://github.com/user-attachments/assets/4383b9cf-2746-4fee-93e0-83046f524052)
 
 
 # Analysis and Results of Question 1
@@ -55,5 +55,7 @@ How have year-over-year growth rates in median home sale prices varied across di
 The three graphs of YoY growth rates from 2005 to 2011 provide clear differences in how towns of differing price tiers (low, middle, high) responded to the 2008 recession. High priced towns experienced way steeper and greater volatile declines in sale prices around 2008 compared to the others. Middle priced towns showed a medium amount of change, with smaller decreases during the crisis and steadier recovery patterns. Lower priced towns demonstrated greater resistence to the recession, with smaller negative growth rates during 2008 and generally more stable trends overall. After looking at these results, I have come to the conclusion that wealthier housing markets were more sensitive to the recession, while affordable markets exhibited more stability in the face of the crisis.
 
 Some reasons that this could be the case include that the luxury (high price towns) housing market is much more elastic compared to others. This means that home buyers are much less likely to purchase a non basic housing need in a time of recession. Another potential reason is that wealthier homeowners have much more investments tied to the stock market, so when there is something like a recession there wealth is greatly effected. 
+
+#Tableau File
 
 
