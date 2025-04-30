@@ -10,14 +10,17 @@ Jack Saylor - jds56127@uga.edu <br/>
 Ayaan Godil - aag53475@uga.edu
 
 # Description of Data Set
-This dataset contains detailed records of real estate sales transactions in Connecticut from 2001 through 2022. It includes 1,097,629 rows and 14 columns, with each row representing an individual property sale. The dataset was obtained from the Connecticut State Department of Housing’s open data resources and is commonly used to analyze property market trends, assessed value comparisons, and regional housing activity.
+This dataset contains real estate transactions in Conneticut from 2001 through 2022. The data was obtained from the Conneticut State Department of Housing's open data resources. It includes 1,097,629 rows and 14 columns, with each row representing a property sale. 
 
-Each sale is identified by a unique serial number and includes both the list year and the date the sale was officially recorded. The dataset provides location information such as the town and street address where the transaction occurred, along with geospatial coordinates where available. Financial data includes the tax-assessed value of the property at the time of sale, the actual sale amount, and the sales ratio (defined as sale amount divided by assessed value), which can be used to evaluate pricing dynamics or appraisal accuracy.
+Each sale in the dataset is identified by a unique serial number and includes the list year and the date the sale was recorded. The dataset also gives location information such as the town and street address where the transaction occured, along with coordinates where available. Financial data includes the assessed value of the property at the time of the sale, the actual sale amount, and the sales ratio (defined as sale amount divided by assessed value), which can be used to evaluate pricing dynamics or appraisal accuracy.
 
-The dataset also categorizes properties by type—such as Residential, Commercial, or Vacant Land—and further specifies residential properties into subtypes including Single Family, Two Family, Three Family, and Four Family homes. Other fields, such as Non Use Code, Assessor Remarks, and OPM Remarks, provide optional context or notes relevant to special use cases, although many of these fields are sparsely populated. Data types include integers for identifiers and years, floating-point numbers for monetary values, and string/object types for descriptive attributes.
+The dataset also categorizes the properties by type. This inlcudes Residential, Commercial, or Vacant Land, and specifies residential further into Single Family, Two Family, Three Family, and Four Family homes. 
+
+Some sparsley populated fields include Non Use Code, Assessor Remarks, and OPM Remarks. These provide optional context or notes relevant to special use cases.
+
+Data types include integers for identifiers and years, floating-point numbers for monetary values, and string/object types for descriptive attributes.
 
 Overall, this dataset offers a comprehensive view of two decades of property sales in Connecticut and is well-suited for time-series analysis, price distribution studies, and housing market segmentation.
-
 
 # Manipulation of Data Set 
 
