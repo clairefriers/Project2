@@ -23,7 +23,7 @@ Overall, this dataset offers a comprehensive view of two decades of property sal
 
 ![Screenshot 2025-04-28 at 6 32 28 PM](https://github.com/user-attachments/assets/a066956b-6b5f-42c9-a9ed-7a62c0f2b3dc)
 
-To break up differing wealth classes in tableau, we had to create the above calculated field in Tableau. This takes the results from our box and whisker plot that breaks down the average home sales amounts across towns.
+To break up differing wealth classes in tableau, we had to create the above calculated field in Tableau. This takes the results from our box and whisker plot that breaks down the average home sales amounts across towns and puts them into one of the four categories we defined.
 
 ![calc](https://github.com/clairefriers/Project2/blob/main/calc.png)
 
